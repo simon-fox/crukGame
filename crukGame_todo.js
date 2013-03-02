@@ -15,3 +15,9 @@
 - to only draw entities once
     - go through all entities
     - if entity type is EntityPoint_class and isDrawn is true do nothing
+    
+- alternative methodology
+    - blitting
+    - take points and turn them into an image
+    - update image when game logic has affected points
+    
