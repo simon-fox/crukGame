@@ -26,11 +26,25 @@
     - so we only have a few hundred on screen at once.
     
 to do:
-    - get data points looking like something items could
-      balance on
+   // - get data points looking like something items could
+     // balance on
     - get user action (swipe, long click) destroying data
       points
     - generate breakable items
+        //- placeholder image
+        - needs gravity
+        - needs health
+        - needs kill
+        - needs to collide with data points 
     - store scores etc
-    - write camera controls to scroll level
+    //- write camera controls to scroll level
     - split data in half?
+    
+    
+    
+    
+    
+    
+    
+    
+    
