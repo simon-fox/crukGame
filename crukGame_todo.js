@@ -20,4 +20,17 @@
     - blitting
     - take points and turn them into an image
     - update image when game logic has affected points
+
+- super alternative methodology
+    - bigger data points (15x15)
+    - so we only have a few hundred on screen at once.
     
+to do:
+    - get data points looking like something items could
+      balance on
+    - get user action (swipe, long click) destroying data
+      points
+    - generate breakable items
+    - store scores etc
+    - write camera controls to scroll level
+    - split data in half?
