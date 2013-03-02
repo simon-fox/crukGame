@@ -12,4 +12,6 @@
     - viewport co-ords should be: 
     - ig.game.screen.x + 320 & ig.game.screen.y + 240
     
-    
+- to only draw entities once
+    - go through all entities
+    - if entity type is EntityPoint_class and isDrawn is true do nothing
