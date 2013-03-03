@@ -68,7 +68,12 @@ to do:
         - on mouse release record x axis position
         - subtract first from second
         - normalise number into a positive
-        - bigger number = bigger amount removed 
+        - bigger number = bigger amount removed
+        
+    //- replace bomb animation with proper animation
+    - replace seeds with trees
+        - grouping algorithm?
+    
     
     
     
