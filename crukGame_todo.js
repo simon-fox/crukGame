@@ -62,7 +62,13 @@ to do:
         - rock/bomb throwing animation
             - thrown item starts large and gets
               a little smaller as it approaches breakables 
-    
+   
+    - scoring
+        - on mouse down record x axis position
+        - on mouse release record x axis position
+        - subtract first from second
+        - normalise number into a positive
+        - bigger number = bigger amount removed 
     
     
     
