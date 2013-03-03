@@ -45,9 +45,12 @@ to do:
     
     
     //if sticking with new direction
-        - split data in half
-            - do not render below y = 0.5
-        - look at making tiled bg from tww assets
+        //- split data in half
+            //- do not render below y = 0.5
+        //- look at making tiled bg from tww assets
+       //- add listener for input release event for click
+        //- add .grow method
+            - add data capture to .grow method
         - replace cloud asset with rock/breakables asset
         - work on kill function of breakables
             - smash animation on kill
