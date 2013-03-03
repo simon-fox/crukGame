@@ -32,13 +32,17 @@ to do:
       points
     - generate breakable items
         //- placeholder image
-        - needs gravity
+        //- needs gravity
         - needs health
         - needs kill
-        - needs to collide with data points 
+        - needs to collide with data points
+            - might involve only checking collisions with items onscreen
+            - edit in game.js from line 260
+            - put in an exception for name = "point" entities
     - store scores etc
     //- write camera controls to scroll level
     - split data in half?
+    
     
     
     
