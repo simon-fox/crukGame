@@ -44,6 +44,23 @@ to do:
     - split data in half?
     
     
+    //if sticking with new direction
+        - split data in half
+            - do not render below y = 0.5
+        - look at making tiled bg from tww assets
+        - replace cloud asset with rock/breakables asset
+        - work on kill function of breakables
+            - smash animation on kill
+            - gain points on kill
+        - possible grouping algorithm
+            - on init
+                - if touching another breakable then group
+                - if grouped make more valuable breakable
+        - rock/bomb throwing animation
+            - thrown item starts large and gets
+              a little smaller as it approaches breakables 
+    
+    
     
     
     
